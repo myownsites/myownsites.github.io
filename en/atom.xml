@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://vorzelpark.com.ua/en/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://vorzelpark.com.ua"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2021-06-16T00:00:00+00:00</updated>
+	<id>https://vorzelpark.com.ua/en/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Feedback</title>
+		<published>2021-06-16T00:00:00+00:00</published>
+		<updated>2021-06-16T00:00:00+00:00</updated>
+		<link href="https://vorzelpark.com.ua/en/pages/feedback/" type="text/html"/>
+		<id>https://vorzelpark.com.ua/en/pages/feedback/</id>
+		<content type="html">&lt;p&gt;Feedback form for ads, sale and rental flats.&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Salad market shop in Vorzel Park</title>
+		<published>2020-12-18T00:00:00+00:00</published>
+		<updated>2020-12-18T00:00:00+00:00</updated>
+		<link href="https://vorzelpark.com.ua/en/2020/salat-market-vorzelpark/" type="text/html"/>
+		<id>https://vorzelpark.com.ua/en/2020/salat-market-vorzelpark/</id>
+		<content type="html">&lt;p&gt;Shop &amp;quot;Salad Market&amp;quot; is located near the second house and offers a wide range of goods.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;The store is open from 8.00 to 22.00&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;&#x2F;2020&#x2F;e9394509-35bb-413a-a9c2-0e8812d4ec50.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;1f36fff2-cae2-46b5-b554-d76d91b41836.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;2837c71e-ae32-40f9-86dc-3ac9cbb1cdd5.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;32faad30-c46b-4454-a16f-89ffdbec3d9e.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;5ad304aa-b177-44aa-8261-7cd97117f8ea.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;8ea02222-10a0-46e1-8344-d1e5d039d5bf.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;f3e670cf-48db-4426-9dcb-2123a9a45e83.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;
+&lt;img src=&quot;&#x2F;2020&#x2F;fffcab19-e437-496d-9641-73b60985694d.jpeg&quot; alt=&quot;&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Announcements</title>
+		<published>2020-12-10T00:00:00+00:00</published>
+		<updated>2020-12-10T00:00:00+00:00</updated>
+		<link href="https://vorzelpark.com.ua/en/pages/announcements-vorzel-park/" type="text/html"/>
+		<id>https://vorzelpark.com.ua/en/pages/announcements-vorzel-park/</id>
+		<content type="html">&lt;p&gt;You can submit and view ads in real time in our chat for advertising and announcements &lt;a href=&quot;https:&#x2F;&#x2F;t.me&#x2F;vorzelparkads&quot;&gt;https:&#x2F;&#x2F;t.me&#x2F;vorzelparkads&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Contact information</title>
+		<published>2020-12-10T00:00:00+00:00</published>
+		<updated>2020-12-10T00:00:00+00:00</updated>
+		<link href="https://vorzelpark.com.ua/en/pages/contacts/" type="text/html"/>
+		<id>https://vorzelpark.com.ua/en/pages/contacts/</id>
+		<content type="html">&lt;h3 id=&quot;chairman-of-the-first-turn-collectivity&quot;&gt;Chairman of the first turn collectivity&lt;&#x2F;h3&gt;
+&lt;p&gt;Zdanevich Vladimir Ivanovich&lt;&#x2F;p&gt;
+&lt;p&gt;+38 068-425-18-25&lt;&#x2F;p&gt;
+&lt;p&gt;+38 050-476-88-59&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;chairman-of-the-second-turn-collectivity&quot;&gt;Chairman of the second turn collectivity&lt;&#x2F;h3&gt;
+&lt;p&gt;Krainik Denis Vladimirovich&lt;&#x2F;p&gt;
+&lt;p&gt;+38 099-464-47-15&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;chairman-of-the-third-turn-collectivity&quot;&gt;Chairman of the third turn collectivity&lt;&#x2F;h3&gt;
+&lt;p&gt;Zdanevich Vladimir Ivanovich&lt;&#x2F;p&gt;
+&lt;p&gt;+38 068-425-18-25&lt;&#x2F;p&gt;
+&lt;p&gt;+38 050-476-88-59&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;mailing-address-of-the-house&quot;&gt;Mailing address of the house&lt;&#x2F;h3&gt;
+&lt;p&gt;Zip code is 08296&lt;&#x2F;p&gt;
+&lt;p&gt;street Klenova 45a, village Vorzel, Kyiv region
+street Klenova 45a&#x2F;1, village Vorzel, Kyiv region
+street Klenova 45a&#x2F;2, village Vorzel, Kyiv region&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Residential complex Vorzel Park in Vorzel village</title>
+		<published>2020-10-13T00:00:00+00:00</published>
+		<updated>2020-10-13T00:00:00+00:00</updated>
+		<link href="https://vorzelpark.com.ua/en/about-the-vorzel-park/" type="text/html"/>
+		<id>https://vorzelpark.com.ua/en/about-the-vorzel-park/</id>
+		<content type="html">&lt;p&gt;The residential complex embodies a cozy family corner, where you can relax from the hustle and bustle of the big city, breathe fresh air and enjoy the silence of life in the suburbs.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;
+&lt;p&gt;Due to the developed infrastructure of the village. Vorzel does not need to go to the capital every day. Since the village has a developed infrastructure, namely the branch of &amp;quot;Nova Poshta&amp;quot;, sports complexes, cafes and supermarkets, bike paths, parks and many playgrounds.&lt;&#x2F;p&gt;
+&lt;p&gt;The yard of the residential complex Vorzel Park is fenced and parking for 300 parking spaces is provided. The territory is asphalted and has its own playgrounds. On the territory of the complex there is a shop and a cafe where you can spend time with family and friends. And the barbecue area will allow you to feel the aroma of nature and cook your favorite dish without leaving the yard.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;vorzelpark.com.ua&#x2F;en&#x2F;pages&#x2F;contacts&#x2F;&quot;&gt;Contacts&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

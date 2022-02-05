@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://vorzelpark.com.ua/sitemap.xml
